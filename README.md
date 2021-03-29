@@ -1,7 +1,7 @@
 # Weather Dashboard 
 [Link to deployed application](https://kwinahn.github.io/weather-dashboard/)
 
-![Preview] (.assets/weather-ss.png)
+![Preview](./assets/weather-ss.png)
 
 ## Description 
 A small weather application that allows user to look up current and 5-day forecast weather conditions
